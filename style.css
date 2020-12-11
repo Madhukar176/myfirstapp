@@ -1,0 +1,39 @@
+  
+.FrontEnd{
+   color:green;
+   width: 100%;
+   margin: 16px auto;
+   border: 1px solid grey;
+   box-shadow: 0 10px 3px palevioletred;
+
+   box-sizing: border-box;
+   padding: 16px;
+   font-size: 100px;
+   background-color: rebeccapurple;
+
+}
+
+@media only screen and (max-width: 600px) {
+   Html,.FrontEnd {
+     background-color: lightblue;
+     height: 20px;
+     width: 20px;
+     
+   }
+
+
+   
+ }
+
+ button{
+   background-color:palevioletred;
+   font-size: larger;
+   position: fixed;
+   top:550px;
+   left: 1110px;
+   border: 3px;
+   height: 83px;
+   width: 83px;
+  border-radius: 50%;
+ }
+
